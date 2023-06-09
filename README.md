@@ -22,13 +22,19 @@ https://sheltered-refuge-80440.herokuapp.com/
 
 Mobile design:
 
-![image](https://user-images.githubusercontent.com/87691625/179125232-a5989103-00c4-4084-9e56-498a13770271.png)
+![image](https://github.com/Huynh-Vy/React-MovieApp/assets/87691625/27c384f5-9573-45fe-9a13-ba0ea54d5883)
 
-![image](https://user-images.githubusercontent.com/87691625/179125271-651f927e-f501-4026-9bfc-9d97106b37bc.png)
+![image](https://github.com/Huynh-Vy/React-MovieApp/assets/87691625/a09c64cf-8fd3-4d67-8757-6951985ca189)
 
+Tablet design:
 
-Tablet, desktop design:
+![image](https://github.com/Huynh-Vy/React-MovieApp/assets/87691625/a8f343fa-3831-4e7b-9b8f-68655c5eb683)
 
-![image](https://user-images.githubusercontent.com/87691625/179125605-9a6adf28-4656-40ac-89e5-616d7ebf9ef5.png)
+Desktop design:
 
-![image](https://user-images.githubusercontent.com/87691625/179125732-c3acca39-7b3b-4ec1-977a-b24a3740d26d.png)
+![image](https://github.com/Huynh-Vy/React-MovieApp/assets/87691625/513ea9fd-4dd1-474f-97eb-eede94f865f1)
+
+![image](https://github.com/Huynh-Vy/React-MovieApp/assets/87691625/30825f48-ff0e-4322-bdfd-0ed20f488334)
+
+![image](https://github.com/Huynh-Vy/React-MovieApp/assets/87691625/5c46a3d1-85d0-4ac4-b2e9-e4932e57055b)
+
